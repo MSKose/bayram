@@ -43,7 +43,7 @@ section div h2 {
     font-size: 12em;
     line-height: 100vh;
     color: #fff;
-    animation: animate 60s linear infinite;
+    animation: animate 15s linear infinite;
 }
 
 @keyframes animate 
